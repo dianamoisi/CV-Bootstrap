@@ -1,0 +1,27 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.data-container {
+    color: #009688;
+}
+
+.background-green {
+    background-color: #009688;
+}
+
+.height-pr {
+    height: 1.25rem;
+}
+
+.fill-cantity2 {
+    width: 85%;
+}
+
+.fill-cantity3 {
+    width: 80%;
+}
+
+.fill-cantity4 {
+    width: 70%;
+}
