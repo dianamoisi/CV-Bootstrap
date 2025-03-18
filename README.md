@@ -1,2 +1,1 @@
-# CV-Bootstrap
-This site is the identical replica of the CV site, except that I used bootstrap, and as few css elements as possible
+This project is a replica of the previous CV site, but with Bootstrap integrated to enhance responsiveness and reduce custom CSS usage. It helped me better understand Bootstrap’s components and grid system while optimizing development efficiency.
